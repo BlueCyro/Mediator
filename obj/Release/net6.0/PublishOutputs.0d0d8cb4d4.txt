@@ -1,5 +1,0 @@
-C:\Users\Cyro\Documents\Coding Stuff\SampleTest\bin\Release\net6.0\publish\Mediator.exe
-C:\Users\Cyro\Documents\Coding Stuff\SampleTest\bin\Release\net6.0\publish\Mediator.dll
-C:\Users\Cyro\Documents\Coding Stuff\SampleTest\bin\Release\net6.0\publish\Mediator.deps.json
-C:\Users\Cyro\Documents\Coding Stuff\SampleTest\bin\Release\net6.0\publish\Mediator.runtimeconfig.json
-C:\Users\Cyro\Documents\Coding Stuff\SampleTest\bin\Release\net6.0\publish\Fleck.dll
